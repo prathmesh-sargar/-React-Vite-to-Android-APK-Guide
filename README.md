@@ -5,6 +5,7 @@
 
 Welcome! 🚀 This guide will walk you through converting your **React Vite web app** into a fully functional Android app using **Capacitor** and **Android Studio**. Whether you're a beginner or a pro, this guide has you covered! Let's turn your website into an app. 🎉  
 
+LIve Link : https://focuszen.netlify.app/
 ---
 ![Screenshot (9389)](https://github.com/user-attachments/assets/e73659fc-6341-4f82-aeb5-249aa9dafc37)
 
